@@ -3,7 +3,7 @@
 Este arquivo registra a conversa com a IA (Claude) usada como apoio no desenvolvimento da API. A IA foi usada para sugerir estrutura, revisar código e gerar testes. As decisões de escopo, a revisão do código e a execução (`dotnet run` e `dotnet test`) foram feitas pelo grupo.
 
 - **Ferramenta:** Claude (Anthropic)
-- **Disciplinas:** SOA e C#
+- **Disciplinas:** C#
 - **Projeto:** AquaSense — API REST em C# / .NET 8 com SQLite
 
 ---
