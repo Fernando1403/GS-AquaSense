@@ -141,8 +141,8 @@ Resultado obtido: **11 testes, 0 falhas, 11 bem-sucedidos**.
 ![Resumo por hora](evidencias/04-resumo-por-hora.png)
  
 ### 7.7 Testes automatizados — `dotnet test`
-![dotnet test](<img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/186b9d04-1609-4a92-8651-07d21bd4f826" />
-)
+<img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/9deb26cb-f6cb-4701-b07a-a74a76e64fa2" />
+
  
 ---
  
