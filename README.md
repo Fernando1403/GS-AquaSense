@@ -140,12 +140,9 @@ Resultado obtido: **11 testes, 0 falhas, 11 bem-sucedidos**.
 ### 7.5 Resumo por hora — `GET /locais/1/resumo-por-hora`
 ![Resumo por hora](evidencias/04-resumo-por-hora.png)
  
-### 7.6 Tratamento de erros — `404` e `400`
-![Erro 404](evidencias/05-erro-404.png)
-![Erro 400](evidencias/06-erro-400.png)
- 
 ### 7.7 Testes automatizados — `dotnet test`
-![dotnet test](evidencias/07-dotnet-test.png)
+![dotnet test](<img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/186b9d04-1609-4a92-8651-07d21bd4f826" />
+)
  
 ---
  
