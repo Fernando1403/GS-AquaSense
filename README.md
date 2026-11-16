@@ -126,19 +126,26 @@ Resultado obtido: **11 testes, 0 falhas, 11 bem-sucedidos**.
 ## 7. Demonstração / Evidências
  
 ### 7.1 Visão geral do Swagger
-![Swagger](evidencias/00-swagger-geral.png)
+<img width="1911" height="1022" alt="image" src="https://github.com/user-attachments/assets/0dc5245c-43ee-42dc-a339-d55726a0cd73" />
+
  
 ### 7.2 Listar locais — `GET /locais`
-![GET locais](evidencias/01-get-locais.png)
+<img width="1897" height="1028" alt="image" src="https://github.com/user-attachments/assets/7188ba78-5b59-41d5-a279-ff75897b0acc" />
+
+### 7.3 Listar locais por id — `GET /locais/id`
+<img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/85d953d4-cf62-4b69-b223-8b996a73c7e6" />
+
+### 7.4 Registrar leitura — `POST /leituras` (nível crítico)
+<img width="1907" height="1030" alt="image" src="https://github.com/user-attachments/assets/bd05d9bd-1042-4e19-9f1e-0341c98b76e4" />
+
  
-### 7.3 Registrar leitura — `POST /leituras` (nível crítico)
-![POST leituras](evidencias/02-post-leituras.png)
+### 7.5 Listar leituras de um local — `GET /locais/1/leituras`
+<img width="1907" height="986" alt="image" src="https://github.com/user-attachments/assets/e2724318-b73a-491f-b105-357511c6a8ac" />
+
  
-### 7.4 Listar leituras de um local — `GET /locais/1/leituras`
-![GET leituras](evidencias/03-get-leituras.png)
- 
-### 7.5 Resumo por hora — `GET /locais/1/resumo-por-hora`
-![Resumo por hora](evidencias/04-resumo-por-hora.png)
+### 7.6 Resumo por hora — `GET /locais/1/resumo-por-hora`
+<img width="1905" height="1006" alt="image" src="https://github.com/user-attachments/assets/dc8f140d-9429-437c-bf85-2ad93ebc8ae1" />
+
  
 ### 7.7 Testes automatizados — `dotnet test`
 <img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/9deb26cb-f6cb-4701-b07a-a74a76e64fa2" />
